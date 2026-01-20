@@ -49,7 +49,7 @@ export const resumeData = {
       company: "Kemang Internet",
       location: "Singapore",
       role: "Web & Mobile Developer (Frontend)",
-      period: "Feb 2025 - Sept 2025",
+      period: "Feb 2025 - Dec 2025",
       type: "WFA",
       description: [
         "Develop, publishing and execute AroundChess Chess game analytics using Stockfish AI, etc for German client.",
