@@ -45,8 +45,20 @@ export const resumeData = {
   },
   about: "Passionate software engineer with expertise in JavaScript/TypeScript and growing skills in Node JS for back-end development. Experienced in building efficient, scalable applications and integrating modern technologies. Adept at problem-solving, clean coding, and collaborating in agile environments. Constantly learning and adapting to deliver high-quality solutions.",
   experience: [
+     {
+      company: "Nusa Inter Omega PT",
+      location: "Jakarta",
+      role: "Web & Mobile Developer (Frontend)",
+      period: "Nov 2025 - Sept 2026",
+      type: "WFA",
+      description: [
+        "Develop, publishing and execute Cyber Security Tracking for Some client (Private apps).",
+        "Collaborating with great team using React Framework (NodeJS, NextJS and React Native).",
+        "Make sure consistency across Web and mobile about flow and functionality, upload versioning on cross platform console (Apple & Android)."
+      ]
+    },
     {
-      company: "Kemang Internet",
+      company: "Kemang Internet PTE, Ltd.",
       location: "Singapore",
       role: "Web & Mobile Developer (Frontend)",
       period: "Feb 2025 - Apr 2026",
@@ -58,7 +70,7 @@ export const resumeData = {
       ]
     },
     {
-      company: "STEBASIA",
+      company: "STEBASIA PT",
       location: "Jakarta",
       role: "Web & Mobile Developer (Frontend)",
       period: "Des 2022 - Jan 2025",
@@ -70,7 +82,7 @@ export const resumeData = {
       ]
     },
     {
-      company: "Crocodic",
+      company: "Crocodic PT",
       location: "Semarang",
       role: "Mobile Developer (Frontend)",
       period: "Sep 2022 - 2023",
@@ -82,7 +94,7 @@ export const resumeData = {
       ]
     },
     {
-      company: "Software Gallery",
+      company: "Software Gallery CV",
       location: "Surabaya",
       role: "Web & Mobile Developer (Fullstack)",
       period: "Jul 2022 - Oct 2022",
@@ -94,7 +106,7 @@ export const resumeData = {
       ]
     },
     {
-      company: "DIGITELS",
+      company: "DIGITELS PT",
       location: "Bali",
       role: "Mobile Developer (Frontend)",
       period: "Oct 2021 - Apr 2022",
@@ -106,7 +118,7 @@ export const resumeData = {
       ]
     },
     {
-      company: "CAHAYA UTAMA",
+      company: "CAHAYA UTAMA PT",
       location: "Surabaya",
       role: "Staff IT & Fullstack Developer",
       period: "Jun 2020 - Jan 2022",
@@ -118,7 +130,7 @@ export const resumeData = {
       ]
     },
     {
-      company: "Arkana Technology",
+      company: "Arkana Technology CV",
       location: "Sidoarjo",
       role: "Web & Mobile Developer, Leader Project",
       period: "Jan 2018 - Jun 2020",
